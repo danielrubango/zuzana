@@ -29,7 +29,7 @@
 
     <body class="flex flex-col justify-between min-h-screen text-grey-darkest leading-normal font-sans">
         <header class="flex items-center bg-white border-b h-24 py-4" role="banner">
-            <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-8">
+            <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-20">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         <h1 class="text-lg md:text-2xl text-zuzana-greenest font-semibold hover:text-zuzana-green my-0">{{ $page->siteName }}</h1>
@@ -54,12 +54,7 @@
         <footer class="bg-white text-center text-sm py-4 border-t" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-reset">
                 <li class="md:mr-2">
-                    &copy; <a href="https://www.zuzana-k.com" title="Zuzana's website">Zuzana K</a> &mdash; {{ date('Y') }}.
-                </li>
-
-                <li>
-                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                    &copy; <a href="https://www.zuzana-k.com" title="Zuzana's website">Zuzana K</a> &mdash; {{ date('Y') }}
                 </li>
             </ul>
         </footer>

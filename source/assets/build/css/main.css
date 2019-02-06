@@ -640,6 +640,7 @@ table {
 
 body {
   font-size: 17px;
+  border-left: 7px solid #51c9c0;
 }
 
 a {
@@ -925,10 +926,6 @@ pre code {
     margin-bottom: -40px;
     font-size: 8rem;
   }
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .list-reset {
