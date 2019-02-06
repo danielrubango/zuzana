@@ -53,7 +53,7 @@
             @yield('body')
         </main>
 
-        <footer class="bg-white text-center text-sm mt-12 py-4 border-t" role="contentinfo">
+        <footer class="bg-white text-center text-sm py-4 border-t" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-reset">
                 <li class="md:mr-2">
                     &copy; <a href="https://www.zuzana-k.com" title="Zuzana's website">Zuzana K</a> &mdash; {{ date('Y') }}.
