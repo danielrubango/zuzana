@@ -13,9 +13,9 @@ pagination:
 @endpush
 
 @section('body')
-    <h1 class="heading mb-1">Articles</h1>
+    <h1 class="heading">Articles</h1>
 
-    <div class="md:w-4/5 mb-2">
+    <div class="md:w-4/5 mb-2 mt-6">
         @if ($categories)
             @foreach ($categories as $category)
                 <a
@@ -33,7 +33,7 @@ pagination:
         @include('_components.post-preview-inline')
 
         @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
+            <hr class="border-b my-6 md:w-4/5">
         @endif
     @endforeach
 

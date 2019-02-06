@@ -10,7 +10,7 @@
 
         <p class="mb-12">Whether you are looking to redesign and upgrade your current website, create a new one or are looking for a longer-term collaboration, get in touch!</p>
 
-        <a href="/contact" class="text-center block bg-zuzana-green hover:bg-zuzana-green-darker hover:text-white rounded text-white text-sm font-semibold tracking-wide uppercase shadow cursor-pointer px-7 py-5  mx-auto mb-12 w-2/5">Contact me</a>
+        <a href="/contact" class="text-center block bg-zuzana-green hover:bg-zuzana-green-darker hover:text-white rounded text-white text-sm font-semibold tracking-wide uppercase shadow cursor-pointer px-7 py-5 w-2/3  mx-auto mb-12 md:w-2/5">Contact me</a>
     </div>
 
     <div class="w-full mb-16">

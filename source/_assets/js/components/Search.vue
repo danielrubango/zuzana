@@ -10,7 +10,7 @@
                 id="search"
                 v-model="query"
                 ref="search"
-                class="transition-fast relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-grey-lightest focus:border-blue-light outline-none cursor-pointer text-grey-darker px-4 pb-0"
+                class="transition-fast relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-grey-lightest focus:border-blue-light outline-none cursor-pointer text-grey-darker px-4 pb-0" 
                 :class="{ 'transition-border': query }"
                 autocomplete="off"
                 name="search"

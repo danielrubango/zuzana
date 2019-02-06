@@ -110,6 +110,7 @@ ul {
 
 p {
     @apply .my-3;
+    @apply .leading-loose;
 
     @screen md {
         @apply .my-6;
