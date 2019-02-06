@@ -22,7 +22,7 @@
 
             <button
                 v-if="query || searching"
-                class="absolute pin-t pin-r h-10 font-light text-3xl text-blue hover:text-blue-dark focus:outline-none -mt-px pr-7 md:pr-3"
+                class="absolute pin-t pin-r h-10 font-light text-3xl text-blue hover:text-zuzana-green focus:outline-none -mt-px pr-7 md:pr-3"
                 @click="reset"
             >&times;</button>
 

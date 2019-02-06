@@ -3,7 +3,7 @@ pagination:
     collection: posts
     perPage: 4
 ---
-@extends('_layouts.master')
+@extends('_layouts.blogs')
 
 @push('meta')
     <meta property="og:title" content="{{ $page->siteName }} Blog" />
@@ -39,7 +39,7 @@ pagination:
                 <a
                     href="{{ $path }}"
                     title="Go to Page {{ $pageNumber }}"
-                    class="bg-grey-lighter hover:bg-grey-light text-blue-darker rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-blue-dark' : '' }}"
+                    class="bg-grey-lighter hover:bg-grey-light text-zuzana-greener rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-zuzana-green' : '' }}"
                 >{{ $pageNumber }}</a>
             @endforeach
 

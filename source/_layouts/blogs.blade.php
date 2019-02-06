@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -36,7 +37,8 @@
                     </a>
                 </div>
 
-                <div class="flex flex-1 justify-end items-center">
+                <div id="vue-search" class="flex flex-1 justify-end items-center">
+                    <search></search>
 
                     @include('_nav.menu')
 
