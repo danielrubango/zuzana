@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://zuzana-jigsaw.netlify.com',
     'production' => false,
     'siteName' => 'Zuzana K',
     'siteDescription' => 'Web design and development',
