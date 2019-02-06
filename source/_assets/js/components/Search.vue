@@ -10,11 +10,11 @@
                 id="search"
                 v-model="query"
                 ref="search"
-                class="transition-fast relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-grey-lightest border border-grey focus:border-blue-light outline-none cursor-pointer text-grey-darker px-4 pb-0"
+                class="transition-fast relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-grey-lightest focus:border-blue-light outline-none cursor-pointer text-grey-darker px-4 pb-0"
                 :class="{ 'transition-border': query }"
                 autocomplete="off"
                 name="search"
-                placeholder="Search"
+                placeholder="Search articles"
                 type="text"
                 @keyup.esc="reset"
                 @blur="reset"
@@ -107,7 +107,7 @@ input[name='search'] {
     background-image: url('/assets/img/magnifying-glass.svg');
     background-position: 0.8em;
     background-repeat: no-repeat;
-    border-radius: 25px;
+    border-radius: 5px;
     text-indent: 1.2em;
 }
 

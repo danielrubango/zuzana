@@ -1,4 +1,4 @@
-<button class="flex justify-center items-center bg-blue border border-blue h-10 px-5 rounded-full lg:hidden focus:outline-none"
+<button class="flex justify-center items-center bg-zuzana-green border h-10 px-5 rounded md:hidden focus:outline-none"
     onclick="navMenu.toggle()"
 >
     <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +20,7 @@
         toggle() {
             const menu = document.getElementById('js-nav-menu');
             menu.classList.toggle('hidden');
-            menu.classList.toggle('lg:block');
+            menu.classList.toggle('md:block');
             document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
             document.getElementById('js-nav-menu-show').classList.toggle('hidden');
         },
