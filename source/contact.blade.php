@@ -15,7 +15,7 @@
         Do you have a question? Are you thinking about having your own website? Would you like to hire me? Send me an email and I'll get back to you!
     </p>
 
-    <form action="/contact" class="mb-12" data-netlify="true" netlify-honeypot="bot-field" name="jigsaw-form">
+    <form method="post" action="/contact" class="mb-12" data-netlify="true" netlify-honeypot="bot-field" name="jigsaw-form">
         <p class="hidden">
             <label>Don't fill this out if you're human: <input name="bot-field"></label>
         </p>
