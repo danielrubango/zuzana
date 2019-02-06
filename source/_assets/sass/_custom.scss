@@ -3,7 +3,8 @@
     margin-left: -20px;
     z-index: -5;
     margin-bottom: 0;
-    color: #e3ecf6;
+    // color: #e3ecf6;
+    color: #e2e8ee;
 }
 
 @media (min-width: 770px) and (max-width: 1058px) {
@@ -20,4 +21,8 @@
         margin-bottom: -40px;
         font-size: 8rem;
     }
+}
+
+.test {
+    background: blue-lightest;
 }

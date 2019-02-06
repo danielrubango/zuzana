@@ -24,13 +24,13 @@
             <!-- Insert analytics code here -->
         @endif
 
-        <!-- <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet"> -->
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
 
     <body class="flex flex-col justify-between min-h-screen text-grey-darkest leading-normal font-sans">
         <header class="flex items-center bg-white border-b h-24 py-4" role="banner">
-            <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-8">
+            <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-20">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         <h1 class="text-lg md:text-2xl text-zuzana-greenest font-semibold hover:text-zuzana-green my-0">{{ $page->siteName }}</h1>

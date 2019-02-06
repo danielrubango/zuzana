@@ -709,7 +709,7 @@ h6:first-child {
 }
 
 h1 {
-  font-weight: 800;
+  font-weight: 700;
   font-size: 2.625rem;
 }
 
@@ -909,7 +909,7 @@ pre code {
   margin-left: -20px;
   z-index: -5;
   margin-bottom: 0;
-  color: #e3ecf6;
+  color: #e2e8ee;
 }
 
 @media (min-width: 770px) and (max-width: 1058px) {
@@ -926,6 +926,10 @@ pre code {
     margin-bottom: -40px;
     font-size: 8rem;
   }
+}
+
+.test {
+  background: blue-lightest;
 }
 
 .list-reset {
