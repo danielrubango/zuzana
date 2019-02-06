@@ -96,9 +96,6 @@ let colors = {
   'teal-lighter': '#a0f0ed',
   'teal-lightest': '#e8fffe',
 
-  'zuzana-greenest': '#24548f',
-  'zuzana-greener': '#1a4d8c',
-  'zuzana-green': '#0174d4',
   'blue': '#3490dc',
   'blue-light': '#6cb2eb',
   'blue-lighter': '#bcdefa',
@@ -130,6 +127,10 @@ let colors = {
 
   'zuzana-green': '#51c9c0',
   'zuzana-green-darker': '#2eada5',
+
+  // 'zuzana-greenest': '#24548f',
+  // 'zuzana-greener': '#1a4d8c',
+  // 'zuzana-green': '#0174d4',
 }
 
 module.exports = {

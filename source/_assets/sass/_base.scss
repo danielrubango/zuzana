@@ -8,7 +8,7 @@ a {
     @apply .text-zuzana-green;
 
     &:hover {
-        @apply .text-zuzana-greener;
+        @apply .text-zuzana-green-darker;
     }
 }
 
@@ -91,7 +91,6 @@ h6 {
 
 hr {
     @apply .border-b;
-    @apply .border-blue-lighter;
     @apply .my-12;
     @apply .rounded-full;
 }

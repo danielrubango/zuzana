@@ -13,7 +13,19 @@ pagination:
 @endpush
 
 @section('body')
-    <h1>Blog</h1>
+    <h1 class="heading mb-1">Articles</h1>
+
+    <div class="md:w-4/5 mb-2">
+        @if ($categories)
+            @foreach ($categories as $category)
+                <a
+                    href="/blog/categories/{{ $category->title }}"
+                    title="View posts in {{ $category }}"
+                    class="mb-2 inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-zuzana-green hover:text-zuzana-green uppercase text-xs font-semibold rounded mr-4 px-3 py-1 pt-py"
+                >{{ $category->title }}</a>
+            @endforeach
+        @endif
+    </div>
 
     <hr class="border-b my-6">
 

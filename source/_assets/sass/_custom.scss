@@ -1,23 +1,23 @@
 .heading {
-    font-size: 8rem;
-    margin-left: -70px;
+    font-size: 4rem;
+    margin-left: -20px;
     z-index: -5;
-    margin-bottom: -40px;
+    margin-bottom: 0;
     color: #e3ecf6;
 }
 
-@media(max-width: 769px) {
+@media (min-width: 770px) and (max-width: 1058px) {
     .heading {
         margin-left: -20px;
         margin-bottom: 0;
-        font-size: 4rem;
+        font-size: 6rem;
     }
 }
 
-@media(mind-width: 770px) and (max-width: 1040px) {
+@media(min-width: 1059px) {
     .heading {
-        margin-left: -20px;
-        margin-bottom: 0;
-        font-size: 4rem;
+        margin-left: -70px;
+        margin-bottom: -40px;
+        font-size: 8rem;
     }
 }
