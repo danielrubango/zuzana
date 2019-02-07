@@ -8,7 +8,14 @@
 @endpush
 
 @section('body')
+   
+
     <div class="w-4/5 mx-auto">
+        <div class="mb-5">
+            <a href="/articles" class="pb-5">&LeftArrow; Back to articles</a>
+        </div>
+            
+
         @if ($page->cover_image)
             <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-2">
         @endif

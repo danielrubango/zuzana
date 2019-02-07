@@ -21,7 +21,7 @@
     <div id="testimonials" class="flex flex-col md:flex-row md:-mx-6 mb-24">
         <div class="w-full md:w-1/2 md:mx-6">
             <blockquote>Zuzana helped design freeCodeCamp's new user profile and settings pages. She has been a valuable contributor, reliable and responsible, and able to iterate on new design ideas. Working with her has been a pleasure. Zuzana would be a great asset to any team.</blockquote>
-            <cite>Quincy Larson, Teachr and Founder of <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></cite>
+            <cite>Quincy Larson, Teacher and Founder of <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></cite>
         </div>
 
         <div class="w-full md:w-1/2 md:mx-6">
