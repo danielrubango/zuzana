@@ -7,7 +7,7 @@ description: What does a doctype do
 cover_image: /assets/images/web.jpg
 categories: [development]
 ---
-_Last year I published few articles on Medium in the How to tackle your Web developer interview Q&A series._
+_Last year I published few articles on [Medium](https://medium.freecodecamp.org/web-developer-interview-q-a-what-does-a-doctype-do-146dd757d7d1) in the How to tackle your Web developer interview Q&A series._
 
 _Admittedly I did not get very far because I started the Udacity Mobile Web Specialist nanodegree around that time, but I will be reposting some of the articles here with the hope of carrying on with them this year._
 <hr>
@@ -23,11 +23,9 @@ I recently received a list of web developer interview questions, and when I firs
 
 Well, in all honesty, I couldn’t answer most of the questions. I guess this is where a CS degree could come in handy.
 
-But, as a self-taught developer, I focused on doing, rather than knowing. Since I am looking for a job myself, however, I thought it might be wise to prepare for a web developer interview and answer some of these questions.
+But, as a self-taught developer, I focused on doing, rather than knowing. Since I am looking for a job myself, however, I thought it might be wise to prepare for a web developer interview and answer some of these questions. So here it goes:
 
-So in the next I-don’t-know-how-many posts, I will take a question from a web developer interview and answer it to the best of my ability. I am going to tackle some HTML, some CSS, and some JavaScript questions. The answers will not be exhaustive, but they will hopefully give you and me a good head start, should we want to dig a little bit deeper.
-
-> Question: What does a <doctype> do?
+> Question: What does a `<doctype>` do?
 
 Doctype is the abbreviation for the “document type.” Who would have thought?!
 
@@ -37,7 +35,9 @@ This is where it gets confusing. So let’s unpack it a little bit.
 
 Doctype declaration tells the browser what kind of document to expect: HTML5, HTML4.0x, XHTML1.0 (Strict, Transitional or Frameset), XHTML1.1, and [others](https://www.w3.org/QA/2002/04/valid-dtd-list.html).
 
-But why is it required? For legacy reasons.
+###But why is it required? 
+
+For legacy reasons.
 
 In the early days of the Internet, two main browsers were competing against one another. Netscape Navigator and Internet Explorer. They kept coming up with new features that were often incompatible with the other, already existing features or other browsers. It was a difficult time for the developers (let’s all take a moment and count our blessings).
 

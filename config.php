@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'baseUrl' => 'https://zuzana-jigsaw.netlify.com',
+    'baseUrl' => '',
     'production' => false,
     'siteName' => 'Zuzana K',
-    'siteDescription' => 'Web design and development',
+    'siteDescription' => 'Freelance web designer & developer | Cambridge UK',
     'siteAuthor' => 'Zuzana K',
 
     // collections

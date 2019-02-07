@@ -4,7 +4,7 @@
 
     <h1 class="heading">Welcome</h1>
     <div class="md:w-2/3 md:mx-auto">
-        <p class="mb-6">My name is Zuzana and I am a web designer and developer with background in psychology. My knowledge and love for psychology helps me create beautiful and functional websites buit with usability and accessibility in mind. </p>
+        <p class="mb-6">My name is Zuzana and I am a UK based web designer and developer with background in psychology. My knowledge and love for psychology helps me create beautiful and functional websites buit with usability and accessibility in mind. </p>
 
         <p class="mb-6">I offer a range of services, from the initial design to the development of a responsive, accessible and user-friendly website. I also consult on web accessibility issues and I am available for public speaking about responsive and accessible web design, and about the accessibility principles in general.</p>
 

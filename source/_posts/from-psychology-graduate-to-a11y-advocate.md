@@ -28,4 +28,4 @@ It was there and then when I decided to learn how to make the experience of usin
 
 If there is one thing I learned while at Headway, it would be that no one knows what might happen to them and when. Web accessibility is not about us vs them. It is about everyone. 
 
-_Originally posted in the [Net magazine](https://www.creativebloq.com/net-magazine), August 2018_
+_Originally published in the [Net magazine](https://www.creativebloq.com/net-magazine), August 2018_

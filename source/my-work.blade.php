@@ -16,9 +16,33 @@
     <p class="mb-6">I like to be involved at different stages of a digital project, from the seed of the idea, through to planning, design, development, deployment and maintanance. As a freelancer, this means I can join the project at any stage, or take on the whole project, from design to build.</p>
 </div>
 
-<div class="float-right md:w-2/3 bg-blue-lightest pl-8 py-6">
-    <h2 class="heading">Skills</h2>
+<div class="float-right md:w-2/3 bg-blue-lightest pl-8 py-6 mb-20">
+    <h2 class="heading">Tools</h2>
     <p class="mb-6">I work with <a href="https://wordpress.org/">WordPress</a>, <a href="https://laravel.com/">Laravel</a> and various static site generators. I use <a href="https://www.figma.com/">Figma</a> to design websites and <a href="https://code.visualstudio.com/">Visual Studio Code</a> to develop them. This website is built using <a href="https://jigsaw.tighten.co/">Jigsaw</a>, a static site generator that utilises components from the Laravel framework for building static websites, and hosted on <a href="https://www.netlify.com/">Netlify</a> - an all-in-one platform that makes hosting static websites as well as other modern web projects incredibly easy. When I develop WordPress websites, I use <a href="https://local.getflywheel.com/">Local by Flywheel</a> as my local development environment. </p>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="mb-20">
+    <h1 class="heading">Clients</h1>
+        <div class="px-2 mt-6 mb-20 bg-blue-lightest py-6">
+            <div class="flex -mx-2">
+              <div class="w-1/3 px-2">
+                    <img src="/assets/img/freeCodeCamp.jpg" alt="">
+              </div>
+              <div class="w-1/3 px-2 h-64">
+                
+                    <img src="/assets/img/lissy.png" alt="">
+                
+              </div>
+              <div class="w-1/3 px-2 h-64">
+                
+                    <img src="/assets/img/lissy2.png" alt="">
+                
+              </div>
+            </div>
+          </div>
+          
 </div>
 
     
