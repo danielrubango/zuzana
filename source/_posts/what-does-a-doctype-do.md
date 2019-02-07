@@ -4,7 +4,7 @@ section: content
 title: What does a doctype do
 date: 2019-02-05
 description: What does a doctype do
-cover_image: /assets/images/web.jpg
+cover_image: /assets/images/code.jpg
 categories: [development]
 ---
 _Last year I published few articles on [Medium](https://medium.freecodecamp.org/web-developer-interview-q-a-what-does-a-doctype-do-146dd757d7d1) in the How to tackle your Web developer interview Q&A series._
