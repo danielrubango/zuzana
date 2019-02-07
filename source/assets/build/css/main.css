@@ -843,10 +843,6 @@ pre code {
   }
 }
 
-.test {
-  background: blue-lightest;
-}
-
 .list-reset {
   list-style: none;
   padding: 0;
