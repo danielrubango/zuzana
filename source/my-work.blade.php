@@ -25,24 +25,6 @@
 
 <div class="mb-20">
     <h1 class="heading">Clients</h1>
-        <div class="px-2 mt-6 mb-20 py-6">
-            <div class="flex -mx-2">
-              <div class="w-1/3 px-2">
-                    <img src="/assets/img/freeCodeCamp.jpg" alt="">
-              </div>
-              <div class="w-1/3 px-2 h-64">
-                
-                    <img src="/assets/img/lissy.png" alt="">
-                
-              </div>
-              <div class="w-1/3 px-2 h-64">
-                
-                    <img src="/assets/img/lissy2.png" alt="">
-                
-              </div>
-            </div>
-          </div>
-          
 </div>
 
     
