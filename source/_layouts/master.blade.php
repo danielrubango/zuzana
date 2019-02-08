@@ -31,7 +31,7 @@
             gtag('config', 'UA-110977172-1');
             </script>
         @endif
-
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
@@ -68,8 +68,18 @@
             </ul>
         </footer>
 
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init({
+                duration: 1000,
+                easing: "ease-in-out",
+            });
+        </script>
+
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')
+
+        
     </body>
 </html>

@@ -10,7 +10,7 @@
 @section('body')
    
 
-    <div class="w-4/5 mx-auto">
+    <div class="w-full md:w-4/5 mx-auto">
         <div class="mb-5">
             <a href="/articles" class="pb-5">&LeftArrow; Back to articles</a>
         </div>
