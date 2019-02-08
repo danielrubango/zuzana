@@ -1,8 +1,0 @@
-# Redirects from what the browser requests to what we serve
-
-/about                                          /
-/blog                                           /articles
-/services                                       /my-work
-/problem-with-vuejs-devtools-extension/         /blog/problem-with-vuejs-devtools-extension
-/doctype/                                       /blog/what-does-a-doctype-do/
-/archives/                                      /articles
