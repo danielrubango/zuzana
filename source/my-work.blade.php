@@ -18,7 +18,7 @@
 
 <div class="md:float-right md:w-2/3 bg-blue-lightest px-1 md:px-8 py-6 mb-20" data-aos="fade-up">
     <h2 class="heading">Skills</h2>
-    <p class="mb-6">I use HTML, CSS, JavaScript and PHP to develop responsive websites and web applications. I have recently started experimenting with <a href="https://vuejs.org/">VueJS</a>, a progressive Javascript framework used for building user interfaces and single page applications.</p>
+    <p class="mb-6">I use HTML, CSS, JavaScript and PHP to develop responsive websites and web applications.</p>
     <p class="mb-6">When collaborating with clients, I often work with <a href="https://wordpress.org/">WordPress</a>, <a href="https://laravel.com/">Laravel</a> or various static site generators.  Different clients have different experience and skills to bring to managing websites and we work together to choose the right tool for them. I use <a href="https://www.figma.com/">Figma</a> to design websites and <a href="https://code.visualstudio.com/">Visual Studio Code</a> to develop them. When I develop WordPress websites, I use <a href="https://local.getflywheel.com/">Local by Flywheel</a> as my local development environment.</p>
     <p class="mb-6">This website is built using <a href="https://jigsaw.tighten.co/">Jigsaw</a>, a static site generator that utilises components from the Laravel framework for building static websites, and hosted on <a href="https://www.netlify.com/">Netlify</a>, an all-in-one platform that makes hosting static websites as well as other modern web projects incredibly easy.  </p>
 </div>
