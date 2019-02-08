@@ -14,3 +14,19 @@ PHP_VERSION = "7.2"
 [[redirects]]
   from = "/about"
   to = "/"
+
+[[redirects]]
+  from = "/services"
+  to = "/my-work"
+
+[[redirects]]
+  from = "/archives"
+  to = "/articles"
+
+[[redirects]]
+  from = "/problem-with-vuejs-devtools-extension"
+  to = "/blog/problem-with-vuejs-devtools-extension"
+
+[[redirects]]
+  from = "/doctype"
+  to = "/blog/what-does-a-doctype-do/"
