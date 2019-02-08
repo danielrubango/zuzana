@@ -25,8 +25,8 @@
             <a
                 title="{{ $page->siteName }} Twitter"
                 href="https://www.twitter.com/zk0433"
-                class="nav-menu__item">
-                <img src="/assets/img/twitter.svg" target="_blank" alt="twitter icon" class="h-10 w-10 max-w-none twitter">
+                class="nav-menu__item" target="_blank">
+                <img src="/assets/img/twitter.svg"  alt="twitter icon" class="h-10 w-10 max-w-none twitter">
             </a>
         </li>
     </ul>

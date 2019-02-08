@@ -14,7 +14,7 @@
         Contact
     </a>
 
-    <a title="{{ $page->siteName }} Twitter" href="https://www.twitter.com/zk433">
-        <img src="/assets/img/twitter.svg" alt="twitter icon" target="_blank" class="h-8 w-8 max-w-none m-6 twitter">
+    <a title="{{ $page->siteName }} Twitter" href="https://www.twitter.com/zk433" target="_blank">
+        <img src="/assets/img/twitter.svg" alt="twitter icon" class="h-8 w-8 max-w-none m-6 twitter">
     </a>
 </nav>
