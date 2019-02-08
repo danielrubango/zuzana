@@ -5,6 +5,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="{{ $page->description }}" />
+    <meta property="og:image" content="/assets/img/stock-img.jpg" />
 @endpush
 
 @section('body')
@@ -12,6 +13,10 @@
 
     <div class="text-2xl border-b mb-6 pb-10">
         @yield('content')
+    </div>
+
+    <div class="mb-5">
+        <a href="/articles" class="pb-5">&LeftArrow; Back to articles</a>
     </div>
 
     @foreach ($page->posts($posts) as $post)

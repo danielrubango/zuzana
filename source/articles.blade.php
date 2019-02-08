@@ -10,6 +10,7 @@ pagination:
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="The list of blog posts for {{ $page->siteName }}" />
+    <meta property="og:image" content="/assets/img/stock-img.jpg" />
 @endpush
 
 @section('body')
