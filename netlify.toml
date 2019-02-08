@@ -7,10 +7,10 @@ publish = "build_production"
 
 PHP_VERSION = "7.2"
 
-redirects = [
-  {from = "/blog", to = "/articles"},
-  {from = "/about", to = "/"},
-  {from = "/problem-with-vuejs-devtools-extension/", to = "/blog/problem-with-vuejs-devtools-extension/"},
-  {from = "/doctype/", to = "/blog/what-does-a-doctype-do/"} ,
-  {from = "/archives/", to = "/articles"},
-  {from = "/services", to = "/my-work"}]
+[[redirects]]
+  from = "/blog"
+  to = "/articles"
+
+[[redirects]]
+  from = "/about"
+  to = "/"
