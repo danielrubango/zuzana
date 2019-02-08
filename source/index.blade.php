@@ -20,12 +20,12 @@
     <div data-aos="fade-up">
         <h2 class="heading">Testimonials</h2>
         <div id="testimonials" class="flex flex-col md:flex-row md:-mx-6 mb-24">
-            <div class="w-full md:w-1/2 md:mx-6">
+            <div class="w-full md:w-1/2 md:mx-10">
                 <blockquote>Zuzana helped design freeCodeCamp's new user profile and settings pages. She has been a valuable contributor, reliable and responsible, and able to iterate on new design ideas. Working with her has been a pleasure. Zuzana would be a great asset to any team.</blockquote>
                 <cite>Quincy Larson, Teacher and Founder of <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></cite>
             </div>
     
-            <div class="w-full md:w-1/2 md:mx-6">
+            <div class="w-full md:w-1/2 md:mx-10">
                 <blockquote>Zuzana is one of the most determined and self-directed people I know and this comes across in her approach to her work: detail conscious, conscientious, thorough. Her deep understanding of psychological principles makes a real difference - you'll get a full understanding of user experience, psychological aspects of website design and accessibility issues as well as all-round coding and technical skills.</blockquote>
                 <cite>Elisabeth Klaar of <a href="https://oaktreestudio.co.uk">Oak Tree Studio</a></cite>
             </div>
