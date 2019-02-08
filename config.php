@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://www.zuzana-k.com',
     'production' => false,
     'siteName' => 'Zuzana K',
     'siteDescription' => 'Freelance web designer & developer | Cambridge UK',

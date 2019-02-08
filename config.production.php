@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://zuzana-jigsaw.netlify.com',
+    'baseUrl' => 'https://zuzana-k.com',
     'production' => true,
 ];
