@@ -5,7 +5,6 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="A little bit about {{ $page->siteName }}" />
-    <meta property="og:image" content="https://images.unsplash.com/photo-1521453159160-6b5c58c24591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1324&q=80" />
 @endpush
 
 @section('body')

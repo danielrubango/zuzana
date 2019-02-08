@@ -5,7 +5,6 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="{{ $page->description }}" />
-    <meta property="og:image" content="/assets/img/stock-img.jpeg" />
 @endpush
 
 @section('body')
