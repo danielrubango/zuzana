@@ -32,7 +32,7 @@
 
         <div class="md:float-left md:w-2/3 mb-20 " data-aos="fade-up">
             <blockquote>As our agency grows we are constantly searching for reliable partners to help us service the growing needs of our customers. Zuzana has proven to be just that developer. We find her incredibly useful when we need to outsource part of the WordPress website development process, or look to add in custom functionality on a project. Zuzana is professional and good at what she does, but she's also lovely to communicate with. We trust her to complete projects on spec and on time, and we will continue to outsource to her as we grow further.</blockquote>
-            <cite>Penni Pickering of <a href="https://www.kabocreative.org">Kabo Creative Limited</a></cite>
+            <cite>Penni Pickering of <a href="https://www.kabocreative.com">Kabo Creative Limited</a></cite>
         </div>
     </div>
 @stop
