@@ -22,17 +22,17 @@
 
         <div class="md:w-2/3 mb-10" data-aos="fade-up">
             <blockquote>Zuzana helped design freeCodeCamp's new user profile and settings pages. She has been a valuable contributor, reliable and responsible, and able to iterate on new design ideas. Working with her has been a pleasure. Zuzana would be a great asset to any team.</blockquote>
-            <cite>Quincy Larson, Teacher and Founder of <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></cite>
+            <cite>Quincy Larson, Teacher and Founder of <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp.org</a></cite>
         </div>
 
         <div class="md:float-right md:w-2/3 bg-blue-lightest px-1 md:px-8 pt-3 pb-6 mb-10" data-aos="fade-up">
             <blockquote>Zuzana is one of the most determined and self-directed people I know and this comes across in her approach to her work: detail conscious, conscientious, thorough. Her deep understanding of psychological principles makes a real difference - you'll get a full understanding of user experience, psychological aspects of website design and accessibility issues as well as all-round coding and technical skills.</blockquote>
-            <cite class="pl-1 md:pl-0">Elisabeth Klaar of <a href="https://oaktreestudio.co.uk">Oak Tree Studio</a></cite>
+            <cite class="pl-1 md:pl-0">Elisabeth Klaar of <a href="https://oaktreestudio.co.uk" target="_blank">Oak Tree Studio</a></cite>
         </div>
 
         <div class="md:float-left md:w-2/3 mb-20 " data-aos="fade-up">
             <blockquote>As our agency grows we are constantly searching for reliable partners to help us service the growing needs of our customers. Zuzana has proven to be just that developer. We find her incredibly useful when we need to outsource part of the WordPress website development process, or look to add in custom functionality on a project. Zuzana is professional and good at what she does, but she's also lovely to communicate with. We trust her to complete projects on spec and on time, and we will continue to outsource to her as we grow further.</blockquote>
-            <cite>Penni Pickering of <a href="https://www.kabocreative.com">Kabo Creative Limited</a></cite>
+            <cite>Penni Pickering of <a href="https://www.kabocreative.com" target="_blank">Kabo Creative Limited</a></cite>
         </div>
     </div>
 @stop
