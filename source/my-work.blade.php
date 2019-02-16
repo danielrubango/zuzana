@@ -27,23 +27,23 @@
 
 <div class="mb-20" data-aos="fade-up">
     <h1 class="heading">Clients</h1>
-    <div class="mt-8 md:mt-20">
+    <div class="mt-8">
         <div class="flex flex-wrap justify-between">
             <div class="w-full sm:w-1/2 md:w-1/3 -mx-5 px-5">
                 <a href="https://www.freecodecamp.org/">
-                    <img src="/assets/img/freecodecamp.jpg" class="mt-2 mb-20">
+                    <img src="/assets/img/freecodecamp.jpg" class="mt-2 mb-20" alt="freeCodeCamp's logo">
                 </a>
             </div>
 
             <div class="w-full sm:w-1/2 md:w-1/3 -mx-5 px-5">
                 <a href="https://www.kabocreative.com/">
-                    <img src="/assets/img/kabo.png" class="mx-5 mb-20">
+                    <img src="/assets/img/kabo.png" class="mx-5 mb-20" alt="Kabo Creative's logo">
                 </a>
             </div>
 
             <div class="w-full sm:w-1/2 md:w-1/3 -mx-5 px-5">
                 <a href="https://oaktreestudio.co.uk/">
-                    <img src="/assets/img/oaktreestudio.png" class="mt-2 mb-20">
+                    <img src="/assets/img/oaktreestudio.png" class="mt-2 mb-20" alt="Oak Tree Studio's logo">
                 </a>
             </div>
 
