@@ -1,4 +1,4 @@
-<button class="flex justify-center items-center bg-zuzana-green border h-10 px-5 rounded md:hidden focus:outline-none"
+<a class="flex justify-center items-center bg-zuzana-green border h-10 px-5 rounded md:hidden focus:outline-none"
     onclick="navMenu.toggle()"
 >
     <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
@@ -12,7 +12,7 @@
     >
         <polygon points="32.8,4.4 28.6,0.2 18,10.8 7.4,0.2 3.2,4.4 13.8,15 3.2,25.6 7.4,29.8 18,19.2 28.6,29.8 32.8,25.6 22.2,15 "/>
     </svg>
-</button>
+</a>
 
 @push('scripts')
 <script>

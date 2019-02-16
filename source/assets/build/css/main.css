@@ -845,7 +845,6 @@ pre code {
 @media (min-width: 1059px) {
   .heading {
     margin-left: -70px;
-    margin-bottom: -40px;
     font-size: 8rem;
   }
 }
