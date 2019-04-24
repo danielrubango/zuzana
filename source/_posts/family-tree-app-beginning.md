@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: The humble beginnings of the Family Tree app
 date: 2019-04-20
-description: The beginning of the Family Tree app
+description: I've been thinking about building this app for a while. About two years, to be exact. But it wasn't until recently that...
 cover_image: /assets/images/tree.jpg
 categories: [laravel]
 ---
