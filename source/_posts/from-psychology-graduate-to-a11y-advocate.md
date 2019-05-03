@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: From psychology graduate to accessibility advocate
 date: 2019-01-01
-description: From psychology graduate to accessibility advocate
+description: When I completed my psychology degree in 2014, I had quite a vague idea of what I wanted to do next. My psychology textbooks ...
 cover_image: /assets/images/brain.jpeg
 categories: [other, accessibility]
 ---

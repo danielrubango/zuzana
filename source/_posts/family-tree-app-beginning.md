@@ -5,7 +5,7 @@ title: The humble beginnings of the Family Tree app
 date: 2019-04-20
 description: I've been thinking about building this app for a while. About two years, to be exact. But it wasn't until recently that...
 cover_image: /assets/images/tree.jpg
-categories: [laravel]
+categories: [laravel, family-tree]
 ---
 I've been thinking about building this app for a while. About two years, to be exact. But it wasn't until recently that I started feeling _sort of_ ready actually to build it. I believe my Googling skills are good enough to get me through this now.
 
@@ -17,7 +17,7 @@ There are still so many things I need to consider, but this is a general idea, a
 
 I will be using [Laravel](https://www.laravel.com), which, I think, is the perfect framework for this. Partly because it is a PHP framework, a language I am the most comfortable with, but partly because it is so developer friendly; the Laravel ecosystem and community are just awesome.
 
-Today I run the `laravel new family-tree` command in my terminal, which was very exciting! If you are not familiar with this command, it creates a fresh Laravel installation in my chosen directory called `family-tree`. 
+Today I ran the `laravel new family-tree` command in my terminal, which was very exciting! If you are not familiar with this command, it creates a fresh Laravel installation in my chosen directory called `family-tree`. 
 
 My local Laravel development environment is [Laravel Valet](https://laravel.com/docs/5.8/valet), which I cannot praise highly enough for its simplicity and functionality. It is lightweight, very fast, and once installed, it just works.
 

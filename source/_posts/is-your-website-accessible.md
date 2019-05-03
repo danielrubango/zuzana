@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Is your website accessible?
 date: 2019-01-20
-description: Is your website accessible?
+description: Every business needs a website. If you have a company, chances are you want people to know about you. You want people to ...
 cover_image: /assets/images/accessible-websites.jpeg
 categories: [accessibility]
 ---

@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Learning VueJS - problem with VueJS devtools extension
 date: 2019-01-20
-description: ILearning VueJS - problem with VueJS devtools extension
+description: Vue.js is detected on this page. Devtools inspection is not available because ...
 cover_image: 
 categories: [development, vue]
 ---

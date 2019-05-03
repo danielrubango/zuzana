@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: What does a doctype do
 date: 2019-02-05
-description: What does a doctype do
+description: Doctype declaration tells the browser what kind of document to expect ...
 cover_image: /assets/images/code.jpg
 categories: [development]
 ---

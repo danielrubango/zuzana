@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Changing career later in life
 date: 2019-02-19
-description: Changing career later in life
+description: I’m a forever student. I even had this as a part of my bio for a while, until ...
 cover_image: /assets/images/oneway.jpeg
 categories: [other]
 ---

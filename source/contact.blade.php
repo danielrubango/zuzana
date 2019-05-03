@@ -12,7 +12,7 @@
 
 <div class="md:w-4/5 md:m-auto">
     <p class="mb-8">
-        Do you have a question? Are you thinking about having your own website? Would you like to hire me? Send me an email and I'll get back to you!
+        Do you have a question or a comment? Are you thinking about having your own website? Would you like to hire me? Send me an email and I'll get back to you!
     </p>
 
     <form method="post" action="/success" class="mt-20" data-netlify="true" netlify-honeypot="bot-field" name="jigsaw-form">
