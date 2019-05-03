@@ -47,6 +47,12 @@
                 </a>
             </div>
 
+            <div class="w-full sm:w-1/2 md:w-1/3 -mx-5 px-5">
+                <a href="https://www.studio24.net//">
+                    <img src="/assets/img/s24.png" class="mt-2 mb-20" alt="Studio 24's logo">
+                </a>
+            </div>
+
         </div>
     </div>
 </div>
