@@ -1,9 +1,9 @@
 ---
 extends: _layouts.post
 section: content
-title: Family tree and GDPR
+title: Family tree and GDPR, version 0.1
 date: 2019-05-03
-description: I've been thinking about building this app for a while. About two years, to be exact. But it wasn't until recently that...
+description: When I posted about the Family Tree app last time, few people approached me, warning me about the potential GDPR compliance issues ...
 cover_image: /assets/images/tree2.jpg
 categories: [laravel, family-tree]
 ---
