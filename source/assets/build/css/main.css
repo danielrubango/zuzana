@@ -838,11 +838,25 @@ p img {
   color: #e2e8ee;
 }
 
+.heading-secondary {
+  font-size: 2.5rem;
+  margin-left: 45px;
+  margin-top: 0;
+  z-index: -5;
+  margin-bottom: 0;
+  color: #e2e8ee;
+}
+
 @media (min-width: 770px) and (max-width: 1058px) {
   .heading {
     margin-left: -20px;
     margin-bottom: 0;
     font-size: 6rem;
+  }
+
+  .heading-secondary {
+    margin-top: -20px;
+    font-size: 4rem;
   }
 }
 
@@ -850,6 +864,12 @@ p img {
   .heading {
     margin-left: -70px;
     font-size: 8rem;
+  }
+
+  .heading-secondary {
+    margin-top: -20px;
+    font-size: 6rem;
+    margin-left: 70px;
   }
 }
 

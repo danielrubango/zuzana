@@ -20,9 +20,9 @@ I have done some research, and this is what I found:
 - When it comes to living people, if the data collected is for personal purposes and not subject to a public release, it is not a subject to GDPR (so the family tree would only be available to the owner/user)
 - If the data were subject to public release (the family tree would be made public), the data would be subject to GDPR and consent from all living parties must be obtained 
 
-To address the last point, I will create consent form each user will need to agree to when signing up to the app, stipulating the nature of data being collected, how it will be stored and processed.
+To address the last point, should the user wish to make their family tree public, I will create consent form each user will need to agree to when signing up to the app, stipulating the nature of data being collected, how it will be stored and processed.
 
-I will use OAUTH to allow users to create an account by simply providing other account details. This means I won't need anything else than the authorization token for each user, hence limiting the amount of sensitive information saved in the database.
+I will use OAUTH to allow users to create an account by simply providing other account details. This means I won't need anything else than the authorization token for each user, hence limiting the amount of sensitive information stored in the database.
 
 When it comes to what sort of data is collected, I am going to stick to the bare minimum. Only the name of a person will be necessary to build the tree, year of birth and location will be optional. The data collected will need to be encrypted instead of being stored in a plain text. This will be an exciting challenge when it comes to actually implement it in Laravel!
 
