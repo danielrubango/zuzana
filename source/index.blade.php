@@ -35,5 +35,10 @@
             <blockquote>As our agency grows we are constantly searching for reliable partners to help us service the growing needs of our customers. Zuzana has proven to be just that developer. We find her incredibly useful when we need to outsource part of the WordPress website development process, or look to add in custom functionality on a project. Zuzana is professional and good at what she does, but she's also lovely to communicate with. We trust her to complete projects on spec and on time, and we will continue to outsource to her as we grow further.</blockquote>
             <cite>Penni Pickering of <a href="https://www.kabocreative.com" target="_blank">Kabo Creative Limited</a></cite>
         </div>
+
+        <div class="md:float-right md:w-2/3 bg-blue-lightest px-1 md:px-8 pt-3 pb-6 mb-10 " data-aos="fade-up">
+            <blockquote>I have had the pleasure to work with Zuzana on a recent project of ours. Above all, I was most impressed by Zuzana’s attention to detail, and her thorough approach to delivering the work we assigned her. Zuzana was very systematic in organising her workload, and always kept a very detailed list of updates or issues to discuss in our daily stand-ups. Communication with Zuzana was flawless from day one, and I very much look forward to working with her again soon.</blockquote>
+            <cite>Francesco Fabbro of <a href="https://www.studio24.net" target="_blank">Studio 24</a></cite>
+        </div>
     </div>
 @stop
