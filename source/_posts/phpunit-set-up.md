@@ -14,7 +14,7 @@ What I usually do is write the code first, and then test and debug it - and I am
 
 The goal of TDD is to write code that is cleaner, simpler and bug-free, so it makes sense to at least try to write code in this way, even if it isn't easy at first.
 
-Laravel ships with PHPUnit, so I've been spending some time getting to know how it works. I decided to write this little cheat sheet that lists the steps required to install PHPUnit, set it up and ready to use.
+Laravel ships with PHPUnit, so I've been spending some time getting to know how it works. I decided to write this little cheat sheet that lists the steps required to install PHPUnit, set it up, ready to use.
 
 <h3>PHPUnit Set Up</h3>
 
