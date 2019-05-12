@@ -21,7 +21,7 @@ Laravel ships with PHPUnit, so I've been spending some time getting to know how 
 1. CD into my project folder
 2. Install the PHPUnit package via [Composer](https://getcomposer.org/): `composer require --dev phpunit/phpunit`
 3. Create folders for tests and for the source code: `mkdir tests && mkdir src` 
-4. Add autoload section to my composer.json file: 
+4. Add autoload section in my composer.json file: 
     ```
     "autoload" : {
         "psr-4" : {
@@ -46,3 +46,7 @@ Now, all I need to type is `phpunit` to run tests.
 This is a very barebones configuration, but it is all I need for now.
 
 And this is all there is to it. My PHPUnit is all set up, ready for me to write some tests. 
+
+I do need to add that, except for the alias, there is no need to set anything up when using PHPUnit in a Laravel project. Everything is already done! 
+
+Laravel does make development so much easier :slightly_smiling_face:.
