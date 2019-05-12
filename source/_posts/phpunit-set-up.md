@@ -49,4 +49,4 @@ And this is all there is to it. My PHPUnit is all set up, ready for me to write 
 
 I do need to add that, except for the alias, there is no need to set anything up when using PHPUnit in a Laravel project. Everything is already done! 
 
-Laravel does make development so much easier :slightly_smiling_face:.
+That's the beauty of Laravel.
